@@ -1,4 +1,4 @@
-910
+1000920
 https://raw.githubusercontent.com/softer435/fdawmlkh/master/5001/wx.apk
 1.增加了自动添加群成员/附近人功能
 2.增加了进行虚拟定位功能
